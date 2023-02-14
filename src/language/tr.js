@@ -1,0 +1,22 @@
+const tr = {
+  trns_1: 'Hoşgeldiniz',
+  trns_2: 'Kayıt ol',
+  trns_3: 'E-posta',
+  trns_4: 'Şifre',
+  trns_5: 'Giriş',
+  trns_6: 'İş',
+  trns_7: 'Eğlence',
+  trns_8: 'Sağlık',
+  trns_9: 'Bilim',
+  trns_10: 'Spor',
+  trns_11: 'Teknoloji',
+  trns_12: 'Bildirim Gönder',
+  trns_13: 'Ayarlar',
+  trns_14: 'Genel',
+  trns_15: 'Anasayfa',
+  trns_16: 'Ara',
+  trns_17: 'Favoriler',
+  trns_18: 'Haber ara',
+  trns_19: 'Bize katıl',
+};
+export default tr;
